@@ -42,3 +42,46 @@
 - ⏳ Organizational & Time Management  
 - 🤝 Collaboration & Teamwork  
 - 🔄 Adaptability
+
+
+
+## 🚩 Featured Projects
+
+### 🎨 Frontend & AI Projects
+
+**[Minute Mosaic 19](https://github.com/ItsmeSunuS/minute-mosaic-19)**  
+Developed a responsive web app for tracking and scheduling daily activities with AI-powered insights. Implemented secure authentication (email/password & Google) using Firebase Auth, time logging, and activity visualization features using Firebase Firestore.  
+**Technologies:** React.js, TypeScript, Firebase, AI-powered insights  
+*Timeless Style. Modern Craft - AI Powered*
+
+**[Lovable AI App](https://lovable.app/)**  
+Developed and deployed a full-stack web application using the AI-powered Lovable.dev platform through prompt-based development. Designed a responsive UI with integrated backend functionality, delivering the project from concept to deployment.  
+**Technologies:** React.js, JavaScript, AI integration, Responsive UI
+
+---
+
+### 🗄️ Database Projects
+
+**[Book Management App](https://github.com/ItsmeSunuS/book-management-app)**  
+Built a complete CRUD application for managing book collections with Firebase backend. Implemented Firebase Realtime Database for instant data synchronization.  
+**Technologies:** JavaScript, Firebase, HTML5, CSS3, Realtime Database, Authentication
+
+**[Fleet Management Application](https://github.com/ItsmeSunuS/fleet-management-app)**  
+Developed a fleet management dashboard for vehicle tracking and management. Implemented data visualization for fleet performance metrics and analytics.  
+**Technologies:** HTML5, CSS3, JavaScript, DOM Manipulation, Responsive Design
+
+---
+
+### 🎨 Frontend Projects
+
+**[Product Showcase Platform](https://github.com/ItsmeSunuS/product-showcase-platform)**  
+Developed a product showcase page with dynamic filtering and sorting capabilities. Implemented responsive layouts using CSS Grid and Flexbox.  
+**Technologies:** JavaScript, HTML5, CSS3, CSS Grid, Flexbox, DOM
+
+### 🖥️ Backend Projects (Module 5)
+
+**[Backend Exercises](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/Module5)**  
+Includes backend logic exercises and API development tasks from Module 5. Covers CRUD operations, data handling, and Node.js fundamentals.  
+**Technologies:** Node.js, Express, JavaScript
+
+---
