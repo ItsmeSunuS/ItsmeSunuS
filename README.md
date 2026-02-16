@@ -31,8 +31,8 @@
 🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
 🚀 Building projects to strengthen full-stack development skills
 
-
 ---
+
 
 ## 🛠️ Tech Stack
 
