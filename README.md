@@ -42,13 +42,13 @@
 
 ### 🎨 Frontend & AI Projects
 
-**[Minute Mosaic 19](https://github.com/ItsmeSunuS/minute-mosaic-19)**  
+**[Track Your Time With Me](https://github.com/ItsmeSunuS/minute-mosaic-19)**  
 Responsive AI-powered web app for tracking and scheduling daily activities. Secure Firebase authentication, time logging, and activity visualization.  
 **Technologies:** React.js, TypeScript, Firebase, AI
 
-**[Lovable AI App](https://lovable.app/)**  
-Full-stack AI-powered web app built using Lovable.dev. Responsive UI with integrated backend logic.  
-**Technologies:** React.js, JavaScript, AI integration
+**[AI Website ](https://chronos-gleam-builder.lovable.app)**  
+Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. offers a site for checking collection sof watches .Responsive UI with integrated backend logic.  
+**Technologies:** React.js, JavaScript, AI integration,mainly focused on froentend
 
 ### 🖥️ Backend Projects (Module 5)
 
