@@ -1,5 +1,9 @@
 # Hi 👋 I'm Sunu (ItsmeSunuS)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Backend+Developer+%7C+Data+Analytics+Enthusiast" alt="Typing animation"/>
+</p>
+
 💻 Passionate Web Developer & AI Enthusiast  
 🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
 🚀 Building projects to strengthen full-stack development skills  
@@ -26,22 +30,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data-Modeling-FF6F00?style=for-the-badge)
-![Query Optimization](https://img.shields.io/badge/Query-Optimization-4CAF50?style=for-the-badge)
 
 ### 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API Testing](https://img.shields.io/badge/API-Testing-6DB33F?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 🤝 Soft Skills
-- 🧠 Problem-Solving  
-- 🔍 Critical & Analytical Thinking  
-- 📚 Research Skills  
-- ⏳ Organizational & Time Management  
-- 🤝 Collaboration & Teamwork  
-- 🔄 Adaptability
 
 ---
 
@@ -50,14 +43,12 @@
 ### 🎨 Frontend & AI Projects
 
 **[Minute Mosaic 19](https://github.com/ItsmeSunuS/minute-mosaic-19)**  
-Responsive web app for tracking and scheduling daily activities with AI-powered insights. Secure Firebase authentication, time logging, and activity visualization.  
+Responsive AI-powered web app for tracking and scheduling daily activities. Secure Firebase authentication, time logging, and activity visualization.  
 **Technologies:** React.js, TypeScript, Firebase, AI
 
 **[Lovable AI App](https://lovable.app/)**  
-Full-stack AI-powered web app built using Lovable.dev with a responsive UI and integrated backend logic.  
+Full-stack AI-powered web app built using Lovable.dev. Responsive UI with integrated backend logic.  
 **Technologies:** React.js, JavaScript, AI integration
-
----
 
 ### 🖥️ Backend Projects (Module 5)
 
@@ -65,52 +56,34 @@ Full-stack AI-powered web app built using Lovable.dev with a responsive UI and i
 Backend logic and API development exercises from Module 5. Covers CRUD operations, data handling, and Node.js fundamentals.  
 **Technologies:** Node.js, Express, JavaScript
 
----
-
 ### 🗄️ Database Projects
 
 **[Book Management App](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/BOOK%20MANAGEMENT%20APP-%20Firebase)**  
-CRUD app for managing book collections with Firebase Realtime Database. Authentication and instant data sync implemented.  
+CRUD app for managing book collections with Firebase Realtime Database.  
 **Technologies:** JavaScript, Firebase, HTML5, CSS3
-
----
-
-### 🎨 Frontend Projects
-
-**[Fleet Management Application](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/Fleet%20Management)**  
-Responsive dashboard for vehicle tracking with data visualization.  
-**Technologies:** HTML5, CSS3, JavaScript, DOM Manipulation
-
-**[Product Showcase Platform](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/Productshowcase)**  
-Showcase page with filtering and sorting. Responsive layout using CSS Grid and Flexbox.  
-**Technologies:** JavaScript, HTML5, CSS3, CSS Grid, Flexbox
-
----
 
 ### 📊 Data Analytics Projects
 
 **[Productivity Mood Tracker](https://github.com/ItsmeSunuS/Productivity-Mood-Tracker)**  
-Analyzes user productivity and mood patterns using data visualization and interactive dashboards.  
-**Technologies:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+Analyzes user productivity and mood patterns using interactive dashboards.  
+**Technologies:** Python, Pandas, Matplotlib, Seaborn
 
 **[PWC Power BI Simulation Tasks](https://github.com/ItsmeSunuS/PWC-Power-Bi-Simulation-Tasks-)**  
-Completed simulation tasks in Power BI, including reporting and analytics dashboards.  
-**Technologies:** Power BI, Data Modeling, DAX
+Power BI analytics dashboards and reporting tasks.  
+**Technologies:** Power BI, DAX
 
-**[Accenture Data Analytics & Visualization Job Simulation](https://github.com/ItsmeSunuS/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-JOB-SIMULATION)**  
-Hands-on project simulating real-world data analytics tasks, focusing on visualization and insights.  
+**[Accenture Data Analytics & Visualization Simulation](https://github.com/ItsmeSunuS/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-JOB-SIMULATION)**  
+Real-world data analysis and visualization simulation tasks.  
 **Technologies:** Excel, Power BI, Data Analysis
 
 **[Coffee Shop Sales Analysis](https://github.com/ItsmeSunuS/Coffee-Shop-Sales)**  
-Analyzed sales data to identify trends, optimize inventory, and improve profitability.  
+Sales data analysis for inventory optimization and trend insights.  
 **Technologies:** Python, Pandas, Matplotlib, Seaborn
-
----
 
 ### 🎓 Certifications
 
 **[Certifications](https://github.com/ItsmeSunuS/Certifications)**  
-All your professional certificates in data analytics, AI, and web development compiled in one place.  
+Professional certificates in data analytics, AI, and web development.
 
 ---
 
@@ -121,8 +94,14 @@ All your professional certificates in data analytics, AI, and web development co
 
 ---
 
+## 🏆 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/ItsmeSunuS/count.svg)
+
+---
 
 ## 🔗 Connect With Me
 
-[Portfolio Website](https://sunu-dev-showcase.lovable.app)  
-[Email](sunusukesan96@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+[Portfolio Website](https://your-portfolio.com)  
+[Email](mailto:your-email@example.com)
