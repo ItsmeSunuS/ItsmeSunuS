@@ -24,9 +24,6 @@
 </p> -->
 ## About Me
 
-
-
-
 💻 Passionate Web Developer & AI Enthusiast    
 📊 Data Analytics Enthusiast
 🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
