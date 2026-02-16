@@ -87,12 +87,40 @@ Showcase page with filtering and sorting. Responsive layout using CSS Grid and F
 
 ---
 
+### 📊 Data Analytics Projects
+
+**[Productivity Mood Tracker](https://github.com/ItsmeSunuS/Productivity-Mood-Tracker)**  
+Analyzes user productivity and mood patterns using data visualization and interactive dashboards.  
+**Technologies:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+**[PWC Power BI Simulation Tasks](https://github.com/ItsmeSunuS/PWC-Power-Bi-Simulation-Tasks-)**  
+Completed simulation tasks in Power BI, including reporting and analytics dashboards.  
+**Technologies:** Power BI, Data Modeling, DAX
+
+**[Accenture Data Analytics & Visualization Job Simulation](https://github.com/ItsmeSunuS/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-JOB-SIMULATION)**  
+Hands-on project simulating real-world data analytics tasks, focusing on visualization and insights.  
+**Technologies:** Excel, Power BI, Data Analysis
+
+**[Coffee Shop Sales Analysis](https://github.com/ItsmeSunuS/Coffee-Shop-Sales)**  
+Analyzed sales data to identify trends, optimize inventory, and improve profitability.  
+**Technologies:** Python, Pandas, Matplotlib, Seaborn
+
+---
+
+### 🎓 Certifications
+
+**[Certifications](https://github.com/ItsmeSunuS/Certifications)**  
+All your professional certificates in data analytics, AI, and web development compiled in one place.  
+
+---
+
 ## 📈 GitHub Stats
 
 ![Sunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsmeSunuS&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeSunuS&layout=compact&theme=tokyonight)
 
 ---
+
 
 ## 🔗 Connect With Me
 
