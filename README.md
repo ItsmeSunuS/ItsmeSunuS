@@ -24,15 +24,13 @@
 </p> -->
 ## About Me
 
-💻 Passionate Web Developer & AI Enthusiast  
-📊 Data Analytics Enthusiast  
+
+
+
+💻 Passionate Web Developer & AI Enthusiast    
+📊 Data Analytics Enthusiast
 🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
 🚀 Building projects to strengthen full-stack development skills  
-
-//💻 Passionate Web Developer & AI Enthusiast  
-//📊 Data Analytics Enthusiast
-//🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
-//🚀 Building projects to strengthen full-stack development skills  
 
 ---
 
