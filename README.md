@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Backend+Developer;Data+Analytics+Enthusiast" alt="Typing animation" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer" alt="Typing animation" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer" alt="Typing animation" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast" alt="Typing animation" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Backend+Developer+%7C+Data+Analytics+Enthusiast" alt="Typing animation" />
