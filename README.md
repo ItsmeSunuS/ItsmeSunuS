@@ -129,9 +129,6 @@ Professional certificates in data analytics, AI, and web development.
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-[Portfolio Website](https://your-portfolio.com)  
-[Email](mailto:your-email@example.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=appveyor)](https://your-portfolio.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=appveyor)](https://sunu-dev-showcase.lovable.app/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sunusukesan96@gmail.com)
