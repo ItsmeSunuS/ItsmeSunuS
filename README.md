@@ -22,10 +22,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+Backend+Developer+Data+Analytics+Enthusiast" alt="Typing animation" />
 </p> -->
+## About Me
 
 💻 Passionate Web Developer & AI Enthusiast  
+📊 Data Analytics Enthusiast  
 🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
 🚀 Building projects to strengthen full-stack development skills  
+
+//💻 Passionate Web Developer & AI Enthusiast  
+//📊 Data Analytics Enthusiast
+//🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
+//🚀 Building projects to strengthen full-stack development skills  
 
 ---
 
