@@ -114,18 +114,15 @@ Professional certificates in data analytics, AI, and web development.
 
 ## 📈 GitHub Stats
 
-![Sunu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsmeSunuS&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsmeSunuS&layout=compact&theme=tokyonight)
-
----
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsmeSunuS&theme=tokyonight)
 
-
-## 🏆 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/ItsmeSunuS/count.svg)
-
 ---
+
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ItsmeSunuS&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🔗 Connect With Me
 
