@@ -1,38 +1,19 @@
-# Hi 👋 I'm Sunu (ItsmeSunuS)
+# 👋 Hi, I'm Sunu (ItsmeSunuS)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Backend+Developer;Data+Analytics+Enthusiast" alt="Typing animation" />
 </p>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer" alt="Typing animation" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer" alt="Typing animation" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast" alt="Typing animation" />
-</p> -->
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Backend+Developer+%7C+Data+Analytics+Enthusiast" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Backend+Developer+%7C+Data+Analytics+Enthusiast" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00BFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+Backend+Developer+Data+Analytics+Enthusiast" alt="Typing animation" />
-</p> -->
-
+---
 
 ## 📝 About Me
 
 💻 Passionate Web Developer & AI Enthusiast  
 📊 Data Analytics Enthusiast  
 🌱 Currently learning modern frontend frameworks, backend APIs, and AI-powered applications  
-🚀 Building projects to strengthen full-stack development skills
+🚀 Building projects to strengthen full-stack development skills  
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -62,24 +43,27 @@
 
 ---
 
-## 🚩 Featured Projects
+## 🎯 Currently Learning
 
-### 🎨 Frontend & AI Projects
-
-**[Track Your Time With Me](https://github.com/ItsmeSunuS/minute-mosaic-19)**  
-Responsive AI-powered web app for tracking and scheduling daily activities. Secure Firebase authentication, time logging, and activity visualization.  
-**Technologies:** React.js, TypeScript, Firebase, AI
-
-
-**[AI Website ](https://chronos-gleam-builder.lovable.app)**  
-Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. offers a site for checking collection sof watches .Responsive UI with integrated backend logic.  
-**Technologies:** React.js, JavaScript, AI integration,mainly focused on froentend
+⚡ TypeScript | 🌐 Next.js | ☁️ Cloud Deployment | 🤖 AI & Machine Learning | 🔧 Backend APIs | 🎨 UI/UX Design
 
 
 ---
 
-### 🖥️ Backend Projects (Module 5)
+## 🚩 Featured Projects
 
+### 🎨 Frontend & AI Projects
+**[Track Your Time With Me](https://github.com/ItsmeSunuS/minute-mosaic-19)**  
+Responsive AI-powered web app for tracking and scheduling daily activities. Secure Firebase authentication, time logging, and activity visualization.  
+**Technologies:** React.js, TypeScript, Firebase, AI
+
+**[AI Website](https://chronos-gleam-builder.lovable.app)**  
+Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. Responsive UI with integrated backend logic.  
+**Technologies:** React.js, JavaScript, AI integration
+
+---
+
+### 🖥️ Backend Projects
 **[Module 5 Backend Exercises](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/Module5)**  
 Backend logic and API development exercises from Module 5. Covers CRUD operations, data handling, and Node.js fundamentals.  
 **Technologies:** Node.js, Express, JavaScript
@@ -87,7 +71,6 @@ Backend logic and API development exercises from Module 5. Covers CRUD operation
 ---
 
 ### 🗄️ Database Projects
-
 **[Book Management App](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/BOOK%20MANAGEMENT%20APP-%20Firebase)**  
 CRUD app for managing book collections with Firebase Realtime Database.  
 **Technologies:** JavaScript, Firebase, HTML5, CSS3
@@ -95,52 +78,44 @@ CRUD app for managing book collections with Firebase Realtime Database.
 ---
 
 ### 📊 Data Analytics Projects
-
 **[Productivity Mood Tracker](https://github.com/ItsmeSunuS/Productivity-Mood-Tracker)**  
 Analyzes user productivity and mood patterns using interactive dashboards.  
-**Technologies:**  SQL, Excel,PowerBi
+**Technologies:** SQL, Excel, Power BI
 
 **[PWC Power BI Simulation Tasks](https://github.com/ItsmeSunuS/PWC-Power-Bi-Simulation-Tasks-)**  
 Power BI analytics dashboards and reporting tasks.  
 **Technologies:** Power BI, DAX
 
-**[Accenture Data Analytics & Visualization Simulation](https://github.com/ItsmeSunuS/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-JOB-SIMULATION)**  
+**[Accenture Data Analytics Simulation](https://github.com/ItsmeSunuS/ACCENTURE-DATA-ANALYTICS-AND-VISUALIZATION-JOB-SIMULATION)**  
 Real-world data analysis and visualization simulation tasks.  
 **Technologies:** Excel, Power BI, Data Analysis
 
 **[Coffee Shop Sales Analysis](https://github.com/ItsmeSunuS/Coffee-Shop-Sales)**  
 Sales data analysis for inventory optimization and trend insights.  
-**Technologies:** SQL, Excel,PowerBi
+**Technologies:** SQL, Excel, Power BI
 
 ---
 
 ### 🎓 Certifications
-
 **[Certifications](https://github.com/ItsmeSunuS/Certifications)**  
 Professional certificates in data analytics, AI, and web development.
 
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsmeSunuS&theme=tokyonight)
-
----
-
-## 📈 GitHub Activity Graph
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItsmeSunuS&theme=tokyonight)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsmeSunuS&theme=react-dark)
 
-
 ---
 
-
 ## 🔗 Connect With Me
-
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=appveyor)](https://sunu-dev-showcase.lovable.app/) 
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1G4bC13wNLmljLgqbhiVh6yeg9S7mZZKR/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sunusukesan96@gmail.com)
 
+---
 
---- 
+## ⚡ Fun Section
+- 🌱 Exploring AI-powered web applications  
+- 🎯 Goals: Contribute to open source projects  
+- 📚 Currently reading: “Deep Learning with Python”
