@@ -129,3 +129,5 @@ Professional certificates in data analytics, AI, and web development.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=appveyor)](https://sunu-dev-showcase.lovable.app/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sunusukesan96@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1G4bC13wNLmljLgqbhiVh6yeg9S7mZZKR/view?usp=sharing)
+
