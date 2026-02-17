@@ -75,11 +75,16 @@ Responsive AI-powered web app for tracking and scheduling daily activities. Secu
 Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. offers a site for checking collection sof watches .Responsive UI with integrated backend logic.  
 **Technologies:** React.js, JavaScript, AI integration,mainly focused on froentend
 
+
+---
+
 ### 🖥️ Backend Projects (Module 5)
 
 **[Module 5 Backend Exercises](https://github.com/ItsmeSunuS/Web-Development-Using-HTML-_CSS_JS/tree/main/Module5)**  
 Backend logic and API development exercises from Module 5. Covers CRUD operations, data handling, and Node.js fundamentals.  
 **Technologies:** Node.js, Express, JavaScript
+
+---
 
 ### 🗄️ Database Projects
 
@@ -87,11 +92,13 @@ Backend logic and API development exercises from Module 5. Covers CRUD operation
 CRUD app for managing book collections with Firebase Realtime Database.  
 **Technologies:** JavaScript, Firebase, HTML5, CSS3
 
+---
+
 ### 📊 Data Analytics Projects
 
 **[Productivity Mood Tracker](https://github.com/ItsmeSunuS/Productivity-Mood-Tracker)**  
 Analyzes user productivity and mood patterns using interactive dashboards.  
-**Technologies:** Python, Pandas, Matplotlib, Seaborn
+**Technologies:**  SQL, Excel,PowerBi
 
 **[PWC Power BI Simulation Tasks](https://github.com/ItsmeSunuS/PWC-Power-Bi-Simulation-Tasks-)**  
 Power BI analytics dashboards and reporting tasks.  
@@ -103,7 +110,9 @@ Real-world data analysis and visualization simulation tasks.
 
 **[Coffee Shop Sales Analysis](https://github.com/ItsmeSunuS/Coffee-Shop-Sales)**  
 Sales data analysis for inventory optimization and trend insights.  
-**Technologies:** Python, Pandas, Matplotlib, Seaborn
+**Technologies:** SQL, Excel,PowerBi
+
+---
 
 ### 🎓 Certifications
 
@@ -118,16 +127,25 @@ Professional certificates in data analytics, AI, and web development.
 
 ---
 
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsmeSunuS&theme=react-dark)
+
+
+---
 
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ItsmeSunuS&label=Profile%20views&color=0e75b6&style=flat)
 
 
+---
+
 ## 🔗 Connect With Me
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=appveyor)](https://sunu-dev-showcase.lovable.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=appveyor)](https://sunu-dev-showcase.lovable.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sunusukesan96@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1G4bC13wNLmljLgqbhiVh6yeg9S7mZZKR/view?usp=sharing)
 
+--- 
