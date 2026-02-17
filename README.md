@@ -45,7 +45,7 @@
 
 ## 🎯 Currently Learning
 
-⚡ TypeScript | 🌐 Next.js | ☁️ Cloud Deployment |Generative AI | 🔧 Backend APIs | 🎨 UI/UX Design
+⚡ TypeScript | 🌐 Next.js | ☁️ Cloud Deployment |Generative AI and AI Tools| 🔧 Backend APIs | 🎨 UI/UX Design
 
 
 ---
