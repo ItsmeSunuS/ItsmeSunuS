@@ -117,5 +117,5 @@ Professional certificates in data analytics, AI, and web development.
 
 ## ⚡ Fun Section
 - 🌱 Exploring AI-powered web applications  
-- 🎯 Goals: Contribute to open source projects  
-- 📚 Currently reading: “Deep Learning with Python”
+- 🎯 Goals: Know more about AI skills ,Tools and use it more effectively.  
+- 📚 Currently exploring: “Generative AI skils”
