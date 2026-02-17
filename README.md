@@ -134,12 +134,6 @@ Professional certificates in data analytics, AI, and web development.
 
 ---
 
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ItsmeSunuS&label=Profile%20views&color=0e75b6&style=flat)
-
-
----
 
 ## 🔗 Connect With Me
 
