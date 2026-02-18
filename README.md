@@ -57,12 +57,13 @@
 Responsive AI-powered web app for tracking and scheduling daily activities. Secure Firebase authentication, time logging, and activity visualization.  
 **Technologies:** React.js, TypeScript, Firebase, AI
 
+## Demo
+
 **[AI Website](https://chronos-gleam-builder.lovable.app)**  
 Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. Responsive UI with integrated backend logic.  
 ![Timeless Style Demo](https://raw.githubusercontent.com/ItsmeSunuS/chronos-gleam-builder/main/20260218-1642-22.9559425.gif)
-## Demo
 
-![Chronos Demo](https://raw.githubusercontent.com/ItsmeSunuS/chronos-gleam-builder/main/20260218-1642-22.9559425.gif)
+
 
 
 
