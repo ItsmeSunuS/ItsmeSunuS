@@ -66,8 +66,9 @@ Responsive AI-powered web app for tracking and scheduling daily activities. Secu
 
 **[AI Website](https://chronos-gleam-builder.lovable.app)**  
 Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. Responsive UI with integrated backend logic.  
-![Timeless Style Demo](https://raw.githubusercontent.com/ItsmeSunuS/chronos-gleam-builder/main/20260218-1642-22.9559425.gif)
 **Technologies:** React.js, JavaScript, AI integration
+
+![Timeless Style Demo](https://raw.githubusercontent.com/ItsmeSunuS/chronos-gleam-builder/main/20260218-1642-22.9559425.gif)
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ItsmeSunuS/chronos-gleam-builder/main/20260218-1642-22.9559425.gif" width="600" alt="Timeless Style Demo"/>
