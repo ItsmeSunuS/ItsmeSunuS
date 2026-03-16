@@ -90,6 +90,20 @@ CRUD app for managing book collections with Firebase Realtime Database.
 
 ---
 
+
+### 🎨Full Stack Applications
+**[Fitness Buddy App](https://github.com/ItsmeSunuS/fitness_buddyapp__frontend)
+[]([https://github.com/ItsmeSunuS/fitness_buddyapp__frontend](https://github.com/ItsmeSunuS/Buddy-Backend))**  
+A full‑stack fitness platform that helps users find workout partners, track workouts, and join group challenges.
+Integrated buddy matching with real‑time messaging, implemented authentication and role‑based access control using RESTful APIs.
+Developed responsive user dashboards and admin panel for user management, activity monitoring, and analytics visualization. 
+**Technologies:**React.js, Node.js, Express.js, Supabase, Tailwind CSS, REST APIs
+
+![Fitness Buddy App – Demo](https://github.com/ItsmeSunuS/Buddy-Backend/blob/main/Fitness_Buddy%20Gif.gif)
+
+
+---
+
 ### 📊 Data Analytics Projects
 **[Productivity Mood Tracker](https://github.com/ItsmeSunuS/Productivity-Mood-Tracker)**  
 Analyzes user productivity and mood patterns using interactive dashboards.  
