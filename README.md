@@ -83,6 +83,7 @@ Full-stack AI-powered website 'Luxe Watch Showcase' built using Lovable.dev. Res
 A full‑stack fitness platform that helps users find workout partners, track workouts, and join group challenges.
 Integrated buddy matching with real‑time messaging, implemented authentication and role‑based access control using RESTful APIs.
 Developed responsive user dashboards and admin panel for user management, activity monitoring, and analytics visualization. 
+
 **Technologies:** React.js, Node.js, Express.js, Supabase, Tailwind CSS, REST APIs
 
 ![Fitness Buddy App – Demo](https://github.com/ItsmeSunuS/Buddy-Backend/blob/main/Fitness_Buddy%20Gif.gif)
